@@ -1,5 +1,5 @@
 module PGFColorSchemes
-export generate_color_definitions
+export generate_color_definitions, colorschemes
 
 using ColorSchemes: colorschemes
 using PGFPlotsX: TikzPicture, pgfsave, CUSTOM_PREAMBLE
