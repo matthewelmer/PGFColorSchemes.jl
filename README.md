@@ -4,7 +4,7 @@ PGFColorSchemes.jl
 Generates preamble code for your tex file that defines the colors and a `plotcyclelist` for a given color scheme from [ColorSchemes.jl](https://juliagraphics.github.io/ColorSchemes.jl/stable/catalogue/).
 
 For example, if you wanted the classic `tab10`
-![tab10 color scheme](image.png)
+![tab10 color scheme](tab10.png)
 color scheme, you would call
 ```julia
 generate_color_definitions(:tab10)
