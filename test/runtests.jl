@@ -14,5 +14,5 @@ for cscheme in [
     :tableau_20,
     :Paired_12  # Half are great for dark plots, half are great for light plots
 ]
-    generate_color_definitions(cscheme)
+    generate_color_definitions(cscheme, "../generated_schemes")
 end
