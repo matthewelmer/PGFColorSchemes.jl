@@ -1,5 +1,5 @@
 module PGFColorSchemes
-export generate_color_definitions, colorschemes
+export generate_color_definitions
 
 using ColorSchemes: colorschemes
 
